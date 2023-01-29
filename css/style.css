@@ -1,0 +1,51 @@
+body {
+    background: #2c2f49;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0280ee, #000428);  
+background: linear-gradient(to right, #0280ee, #172287); 
+}
+header {
+    margin: 30px 0;
+}
+.contenido {
+    padding:20px;
+}
+.contenido-principal {
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+.presupuesto p{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.presupuesto p span {
+    font-weight: normal;
+}
+#gastos {
+    margin-bottom: 30px;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 3.5rem !important;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #2f83cd;
+    font-size: 3rem !important;
+    margin-bottom:30px;
+}
+
+.border-white{
+    border-top: 2px solid white;
+}
+
+.fontGrande{
+    font-size: 3.5rem !important;
+}
+
+.textBlue{ 
+    color:#004e92;
+}
